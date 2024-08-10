@@ -1,5 +1,4 @@
 ## Name: Valentino Ong
-## NRIC: G0644902L
 
 # Pet-Adoption-Prediction
 
